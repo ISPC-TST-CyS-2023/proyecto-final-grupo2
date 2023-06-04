@@ -1,6 +1,16 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/PSenej-S)
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-7f7980b617ed060a017424585567c406b6ee15c891e84e1186181d67ecf80aa0.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=11283410)
-# Proyecto-2
+![image](https://github.com/ISPC-TST-CONTROL-Y-SERVICIOS/proyecto-final-grupo2/assets/108839742/ea791657-cb96-459a-bd13-f1b06b3b2894)
+
+TEAM
+- ARRIOLA, Dario Raul
+- GAZZOLA, Oscar Antonio
+- PALACIOS, Alfredo Sebastian
+- PAZ, Rodolfo
+- RIPOLI, Enrique Alfredo
+- SEGNANA, Miguel Angel
+
+# Proyecto-3
 Proyecto del periodo 2: Controlador Universal, para la materia control y servicios  
 
 ## Definición del proyecto Sprint Planning 15/05/2023
