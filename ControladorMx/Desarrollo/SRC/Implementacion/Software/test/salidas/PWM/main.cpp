@@ -10,7 +10,7 @@
 // Declaramos la intensidad del brillo del led
 int brillo = 0;
 // Declaramos el pin que enviara el voltaje
-int pinLed=2;
+int pinLed=25;
 //Características del PWM
 const int frecuencia = 1000;
 const int canal = 0;
