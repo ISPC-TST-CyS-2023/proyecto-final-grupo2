@@ -25,6 +25,7 @@ Es importante tener en cuenta que la configuración y los detalles específicos 
 
 ## $\textcolor{orange}{Pinout\ ESP32 (30 pines): }$
 
+![image](https://github.com/ISPC-TST-CONTROL-Y-SERVICIOS/proyecto-final-grupo2/assets/46485082/fdd56578-1d4a-46c9-9b28-cb3cb1c047a6)
 
 
 
