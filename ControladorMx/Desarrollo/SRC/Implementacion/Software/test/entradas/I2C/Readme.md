@@ -46,7 +46,7 @@ Existen numerosos dispositivos que utilizan la comunicación I2C (Inter-Integrat
 Estos son solo algunos ejemplos de dispositivos que utilizan comunicación I2C. El protocolo I2C es ampliamente utilizado debido a su simplicidad, flexibilidad y capacidad para conectar múltiples dispositivos en el mismo bus.
 
 
-## $\textcolor{orange}{Simulacion\ comunicacion\ UART : }$
+## $\textcolor{orange}{Simulacion\ comunicacion\ I2C : }$
 
 Se realizo un test simulado en Wokwi para el puerto de comunicacion I2C.
 
