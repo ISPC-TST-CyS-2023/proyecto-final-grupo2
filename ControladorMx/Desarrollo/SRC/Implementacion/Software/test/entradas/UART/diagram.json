@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "author": "Miguel Angel Segnana",
+  "editor": "wokwi",
+  "parts": [
+    { "type": "wokwi-esp32-devkit-v1", "id": "esp", "top": 0, "left": 0, "attrs": {} },
+    { "type": "chip-gps-fake", "id": "chip1", "top": -75.78, "left": 196.8, "attrs": {} }
+  ],
+  "connections": [
+    [ "esp:TX0", "$serialMonitor:RX", "", [] ],
+    [ "esp:RX0", "$serialMonitor:TX", "", [] ],
+    [ "chip1:VCC", "esp:3V3", "red", [ "h41.02", "v225.23", "h-178.5", "v0.47" ] ],
+    [ "chip1:GND", "esp:GND.1", "black", [ "h28.23", "v206.6" ] ],
+    [ "chip1:RX", "esp:TX0", "green", [ "h-54.35", "v111.2" ] ],
+    [ "chip1:TX", "esp:RX0", "green", [ "h-34.16", "v110.7" ] ]
+  ],
+  "dependencies": {}
+}
