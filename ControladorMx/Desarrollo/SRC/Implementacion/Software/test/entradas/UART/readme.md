@@ -23,3 +23,21 @@ Los puertos UART son ampliamente utilizados en una variedad de dispositivos elec
 
 ## $\textcolor{orange}{Dispositivos\ con\ comunicacion\ UART : }$
 
+Hay una amplia variedad de dispositivos que utilizan comunicación UART. Algunos ejemplos comunes incluyen:
+
+- [x]  Módulos Bluetooth: Los módulos Bluetooth utilizan comunicación UART para establecer conexiones inalámbricas con otros dispositivos.
+
+- [x]  Módulos GPS: Los módulos GPS se comunican a través de UART para recibir datos de ubicación y tiempo de los satélites GPS.
+
+- [x]  Módulos GSM/GPRS: Los módulos GSM/GPRS utilizan UART para la comunicación móvil, permitiendo el envío y recepción de mensajes de texto, llamadas telefónicas y conexión a redes de datos móviles.
+
+- [x]  Módulos Wi-Fi: Algunos módulos Wi-Fi externos utilizan comunicación UART para habilitar la conectividad inalámbrica en dispositivos que no tienen Wi-Fi incorporado.
+
+- [x]  Módulos RFID: Los módulos RFID utilizan UART para la comunicación con etiquetas y tarjetas RFID, permitiendo la lectura y escritura de datos.
+
+- [x]  Módulos de sensores: Muchos módulos de sensores, como sensores de temperatura, humedad, acelerómetros, giroscopios, etc., utilizan comunicación UART para transmitir los datos medidos al microcontrolador o a otros dispositivos receptores.
+
+- [x]  Módulos de visualización: Algunos módulos de visualización, como pantallas OLED y LCD, pueden utilizar UART para la comunicación con el microcontrolador y mostrar información en la pantalla.
+
+Estos son solo algunos ejemplos de dispositivos que utilizan comunicación UART. Es importante verificar las especificaciones y documentación de cada dispositivo para comprender cómo se debe configurar y comunicar a través de UART.
+
