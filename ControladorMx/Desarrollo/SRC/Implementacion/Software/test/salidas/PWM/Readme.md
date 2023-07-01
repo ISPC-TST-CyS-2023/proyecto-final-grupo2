@@ -31,7 +31,7 @@ Esta función se puede realizar simplemente declarando el pin como salida, luego
 
 - pinMode(OUTPUT,25); en esta linea se configura el pin la GPIO25 como salida
 
-- analogWrite(25, 256); //activamos el pin GPIO25 al 100% de su potencia
+- analogWrite(25, 255); //activamos el pin GPIO25 al 100% de su potencia
 
 
 
