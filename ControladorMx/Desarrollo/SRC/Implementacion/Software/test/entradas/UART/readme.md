@@ -41,7 +41,9 @@ Hay una amplia variedad de dispositivos que utilizan comunicación UART. Algunos
 
 Estos son solo algunos ejemplos de dispositivos que utilizan comunicación UART. Es importante verificar las especificaciones y documentación de cada dispositivo para comprender cómo se debe configurar y comunicar a través de UART.
 
-## $\textcolor{orange}{Pinout\ ESP32 (30 pines): }$
+## $\textcolor{orange}{Simulacion\ comunicacion\ UART : }$
+
+Se realizo un test simulado en Wokwi para el puerto de comunicacion UART.
 
 https://wokwi.com/projects/369069145929959425
 
