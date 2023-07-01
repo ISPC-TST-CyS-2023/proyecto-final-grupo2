@@ -25,10 +25,30 @@ Para utilizar el puerto I2C, es necesario que los dispositivos conectados sean c
 
 ![image](https://github.com/ISPC-TST-CONTROL-Y-SERVICIOS/proyecto-final-grupo2/assets/46485082/cde9d898-80ae-40e7-b8f4-abc1276b1a6b)
 
+## $\textcolor{orange}{Dispositivos\ con\ comunicacion\ I2C : }$
+
+Existen numerosos dispositivos que utilizan la comunicación I2C (Inter-Integrated Circuit). Algunos ejemplos comunes de dispositivos que utilizan esta interfaz son:
+
+1. Sensores de temperatura y humedad: Muchos sensores de temperatura y humedad, como el DHT11 y el BME280, utilizan la comunicación I2C para enviar datos de medición al microcontrolador.
+
+2. Acelerómetros y giroscopios: Los dispositivos de detección de movimiento, como el MPU-6050 y el LSM6DS3, se comunican a través de I2C para proporcionar información sobre la orientación y la aceleración.
+
+3. Pantallas OLED y LCD: Algunas pantallas OLED y LCD, como el SSD1306 y el LCD1602, utilizan la comunicación I2C para recibir comandos y enviar datos de visualización desde el microcontrolador.
+
+4. Memorias EEPROM: Las memorias EEPROM, como la serie 24CXX, utilizan I2C para leer y escribir datos de forma no volátil.
+
+5. Convertidores analógico-digitales (ADC): Algunos ADC, como el ADS1115, se comunican a través de I2C para convertir señales analógicas en digitales y transmitirlas al microcontrolador.
+
+6. Módulos de reloj en tiempo real (RTC): Los RTC, como el DS1307 y el PCF8563, utilizan I2C para mantener un seguimiento preciso del tiempo y la fecha.
+
+7. Controladores de LED: Algunos controladores de LED, como el PCA9685, se comunican a través de I2C para controlar la intensidad y el color de los LED.
+
+Estos son solo algunos ejemplos de dispositivos que utilizan comunicación I2C. El protocolo I2C es ampliamente utilizado debido a su simplicidad, flexibilidad y capacidad para conectar múltiples dispositivos en el mismo bus.
 
 
+## $\textcolor{orange}{Simulacion\ comunicacion\ UART : }$
 
-Link
+Se realizo un test simulado en Wokwi para el puerto de comunicacion I2C.
 
 https://wokwi.com/projects/369050357652771841
 
