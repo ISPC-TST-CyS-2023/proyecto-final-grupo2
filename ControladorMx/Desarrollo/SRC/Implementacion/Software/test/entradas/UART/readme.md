@@ -20,3 +20,6 @@ Los puertos UART son ampliamente utilizados en una variedad de dispositivos elec
 ## $\textcolor{orange}{Pinout\ ESP32 (30 pines): }$
 
 ![image](https://github.com/ISPC-TST-CONTROL-Y-SERVICIOS/proyecto-final-grupo2/assets/46485082/8c2d53b8-24eb-43de-8252-f6f4989d28db)
+
+## $\textcolor{orange}{Dispositivos\ con\ comunicacion\ UART : }$
+
