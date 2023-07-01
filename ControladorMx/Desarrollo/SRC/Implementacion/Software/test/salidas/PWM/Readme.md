@@ -35,7 +35,8 @@ Esta función se puede realizar simplemente declarando el pin como salida, luego
 
 
 
-
-
 ## Video
+
+https://github.com/ISPC-TST-CONTROL-Y-SERVICIOS/proyecto-final-grupo2/assets/108839742/3014685d-af42-4d88-968f-447131f9cd4f
+
 
