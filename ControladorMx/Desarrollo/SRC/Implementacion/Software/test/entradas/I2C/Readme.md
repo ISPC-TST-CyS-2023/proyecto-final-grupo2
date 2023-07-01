@@ -20,7 +20,7 @@ Los dispositivos comunes que utilizan comunicación I2C incluyen sensores, módu
 Para utilizar el puerto I2C, es necesario que los dispositivos conectados sean compatibles con el protocolo I2C y que el software del microcontrolador o microprocesador utilizado sea capaz de comunicarse a través del I2C. Se requiere una biblioteca o una interfaz de programación para manejar las operaciones de lectura y escritura en el bus I2C y comunicarse con los dispositivos conectados.
 
 
-## $\textcolor{orange}{Consignas: }$
+## $\textcolor{orange}{Pinout\ ESP32 (30 pines): }$
 
 
 ![image](https://github.com/ISPC-TST-CONTROL-Y-SERVICIOS/proyecto-final-grupo2/assets/46485082/cde9d898-80ae-40e7-b8f4-abc1276b1a6b)
