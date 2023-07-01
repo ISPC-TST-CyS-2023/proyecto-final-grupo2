@@ -1,4 +1,5 @@
-# Especificaciones de Entrada  
+
+# $\textcolor{orange}{Especificaciones\ de\ Entrada :}$
 
 - Diseño y desarrollo de entradas digitales (p 0 - 2 - 4 -12 - 13 - 15)
 - Diseño y desarrollo de escalado para sensores resistivos en tensión
@@ -12,8 +13,8 @@
 - [x] Entrada SPI
 - [x] Entrada UART
 
+# $\textcolor{orange}{Cuadro\ Comparativo\ de\ Puertos\ I2C\, SPI\ y\ UART: :}$
 
-cuadro comparativo de los puertos de comunicación I2C, SPI y UART:
 
 | Característica        | I2C                              | SPI                              | UART                            |
 |-----------------------|----------------------------------|----------------------------------|---------------------------------|
