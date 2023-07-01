@@ -23,6 +23,10 @@ Para utilizar el puerto I2C, es necesario que los dispositivos conectados sean c
 ## $\textcolor{orange}{Consignas: }$
 
 
+![image](https://github.com/ISPC-TST-CONTROL-Y-SERVICIOS/proyecto-final-grupo2/assets/46485082/cde9d898-80ae-40e7-b8f4-abc1276b1a6b)
+
+
+
 
 Link
 
