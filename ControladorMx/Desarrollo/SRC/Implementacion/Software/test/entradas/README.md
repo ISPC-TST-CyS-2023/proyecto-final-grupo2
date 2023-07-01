@@ -16,6 +16,8 @@
 # $\textcolor{orange}{Cuadro\ Comparativo\ de\ Puertos\ I2C\, SPI\ y\ UART: :}$
 
 
+Se describen las principales caracteristicas solo a efectos de ver las diferencias entre cada protocolo.
+
 | Característica        | I2C                              | SPI                              | UART                            |
 |-----------------------|----------------------------------|----------------------------------|---------------------------------|
 | Tipo de comunicación  | Síncrona                         | Síncrona                         | Asíncrona                       |
