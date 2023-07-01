@@ -26,15 +26,33 @@ Es importante tener en cuenta que la configuración y los detalles específicos 
 ## $\textcolor{orange}{Pinout\ ESP32 (30 pines): }$
 
 
-![image](https://github.com/ISPC-TST-CONTROL-Y-SERVICIOS/proyecto-final-grupo2/assets/46485082/cde9d898-80ae-40e7-b8f4-abc1276b1a6b)
+
 
 ## $\textcolor{orange}{Dispositivos\ con\ comunicacion\ SPI : }$
 
+Existen numerosos dispositivos que utilizan la comunicación SPI (Serial Peripheral Interface). Algunos ejemplos comunes de dispositivos que hacen uso de esta interfaz son:
 
+1. Pantallas TFT y OLED: Muchas pantallas a color y monocromáticas utilizan la comunicación SPI para enviar datos de visualización desde el microcontrolador y recibir comandos de control.
+
+2. Tarjetas de memoria: Las tarjetas SD (Secure Digital) y las tarjetas de memoria flash utilizan SPI para leer y escribir datos almacenados en ellas.
+
+3. Convertidores analógico-digitales (ADC): Algunos ADC de alta velocidad, como el ADS1115, se comunican a través de SPI para convertir señales analógicas en digitales y transmitirlas al microcontrolador.
+
+4. Convertidores digital-analógicos (DAC): Los DAC, como el MCP4921, utilizan la comunicación SPI para recibir datos digitales desde el microcontrolador y convertirlos en señales analógicas.
+
+5. Sensores de temperatura y presión: Algunos sensores, como el BMP280 y el MAX31855, utilizan SPI para transmitir datos de medición al microcontrolador.
+
+6. Módulos de radio transceptor: Los módulos de radio, como los basados en el chip NRF24L01, utilizan SPI para la comunicación inalámbrica con otros dispositivos.
+
+7. Memorias EEPROM: Algunas memorias EEPROM, como la serie 25LCXX, se comunican a través de SPI para leer y escribir datos de forma no volátil.
+
+8. Controladores de pantalla LED: Algunos controladores de matriz de LED, como el MAX7219, utilizan SPI para controlar los LED y actualizar el contenido mostrado.
+
+Estos son solo algunos ejemplos de dispositivos que utilizan comunicación SPI. La interfaz SPI es ampliamente utilizada debido a su velocidad de transferencia rápida y su capacidad de conectar múltiples dispositivos en cascada utilizando líneas MOSI y MISO compartidas.
 
 
 ## $\textcolor{orange}{Simulacion\ comunicacion\ SPI : }$
 
-Se realizo un test simulado en Wokwi para el puerto de comunicacion I2C.
+Se realizo un test simulado en Wokwi para el puerto de comunicacion SPI.
 
 https://wokwi.com/projects/369056753944481793
