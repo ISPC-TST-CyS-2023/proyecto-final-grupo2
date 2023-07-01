@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "author": "Miguel Angel Segnana",
+  "editor": "wokwi",
+  "parts": [
+    { "type": "wokwi-esp32-devkit-v1", "id": "esp", "top": -62.31, "left": -110.99, "attrs": {} },
+    { "type": "wokwi-ili9341", "id": "lcd1", "top": -270.26, "left": 118.46, "attrs": {} }
+  ],
+  "connections": [
+    [ "esp:TX0", "$serialMonitor:RX", "", [] ],
+    [ "esp:RX0", "$serialMonitor:TX", "", [] ],
+    [ "lcd1:VCC", "esp:3V3", "red", [ "v0" ] ],
+    [ "lcd1:GND", "esp:GND.1", "black", [ "v0" ] ],
+    [ "lcd1:D/C", "esp:D2", "green", [ "v0" ] ],
+    [ "lcd1:CS", "esp:D15", "green", [ "v0" ] ],
+    [ "lcd1:MOSI", "esp:D23", "green", [ "v101.62", "h-168.3", "v-156.87" ] ],
+    [ "lcd1:RST", "esp:D4", "green", [ "v0" ] ],
+    [ "lcd1:SCK", "esp:D18", "green", [ "v99.73", "h-196.02", "v-97.28" ] ],
+    [ "lcd1:MISO", "esp:D19", "green", [ "v89.16", "h-155.96", "v-96.21" ] ]
+  ],
+  "dependencies": {}
+}
